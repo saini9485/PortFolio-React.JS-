@@ -1,0 +1,155 @@
+.Contact_Main_Container{
+  background-color: rgb(22, 22, 22);
+  width: 90%;
+  height: fit-content;
+  margin: auto;
+  border-radius: 10px;
+  padding: 10px;
+  margin-top: 10px;
+  display: flex;
+}
+.Contact_Profile_Image img{
+  height: 100px;
+  width: 100px;
+  border-radius: 50px;
+}
+.Contact_Profile_Image{
+  margin-top: 5px;
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  width: 50%;
+}
+.Rajesh{
+  color: darkblue;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.Front-end{
+  color: brown;
+  font-size: 150%;
+  
+ 
+}
+.Contact_Card {
+  margin: auto;
+  height: fit-content;
+  width: 50%;
+  background-color: white;
+  margin-top: 30px;
+  border-radius: 10px;
+  border: 1px solid black;
+}
+.Contact_Text{
+  margin-top: 15px;
+  margin-bottom: 5px;
+  margin-left: 5px; 
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.Contact_Icons {
+ margin-left: 20px;
+}
+
+ .Contact_Address_Icons i{
+  margin: 7px;
+}
+.Contact_Mobile_Icons i{
+margin: 7px;
+}
+.Contact_Email_Icons i{
+  margin: 7px;
+}
+
+.Contact_Card_Btn{
+  margin-top: 15px;
+  margin-left: 5px;
+  text-decoration: none;
+  border-radius: 26px;
+  font-weight: 500;
+  height: 46px;
+  width: 15rem;
+  line-height: 46px;
+  font-size: 15px;
+  text-transform: uppercase;
+  color:black;
+  background-color: #2dd5ff;
+  padding: 0 33px;
+  overflow: hidden;
+  display: inline-block;
+  position: relative;
+  font-family: 'Poppins', sans-serif;
+  letter-spacing: .5px;
+  border: 0;
+  font-weight: bold;
+  border: 1px solid black;
+
+
+}
+.Contact_Card_Btn:hover{
+  cursor: pointer;
+  box-shadow: inset 330px 0 0 0 blue;
+  color: white;
+  transition: 0.8s;
+}
+.Contact_Social_Media_Icons_Container{
+  margin-top: 5px;
+}
+.Contact_Social_Media_Text{
+  margin: 10px;
+}
+.Contact_Social_Media_Icons img{
+  height: 30px;
+  width: 30px;
+  border-radius: 15px;
+  margin: 8px;
+  cursor: pointer;
+}
+
+.Contact_Form{
+  width: 40%;
+  margin: 10px;
+  margin: auto;
+  margin-bottom: 10px;
+  background-color: white;
+  border-radius: 10px;
+  margin-top: 30px;
+  border: 1px solid black;
+}
+.Contact_Form_Lable{
+  font-weight: bolder;
+  margin-left: 16px;
+
+}
+.Sent_A_Massege{
+  margin-left: 0px;
+}
+.Contact_Input_Box {
+  height: 30px;
+  width: 280px;
+  margin: 5px;
+  border-radius: 5px;
+  text-align: start;
+  margin-left: 16px;
+ 
+}
+
+
+.Contact_Input_Massage_Box{
+  height: 140px;
+  width: 280px; 
+  border-radius: 5px;
+  margin-left: 16px;
+}
+
+.Contact_Form_Send_Btn{
+  width: 70px;
+  height: 30px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  border-radius: 10px;
+  cursor: pointer;
+  /* display: block;
+  margin: auto; */
+  margin-left: 15px;
+  background-color: blue;
+  color: white;
+}
