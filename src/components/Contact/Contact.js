@@ -38,9 +38,9 @@ export function Contact() {
         <div className="Contact_Card_Btn_Container">
           <a
             className="Contact_Card_Btn"
-            href="https://drive.google.com/file/d/1YiudZCtDzIWoPtw6RACst3heTbU-ITQ1/view?usp=sharing"
+            href="https://drive.google.com/file/d/18I8JDzxD_FjY3gzf7jQ6UHulDBOyMnA6/view?usp=share_link"
           >
-            Download Card
+            Download Resume
           </a>
         </div>
         <div className="Contact_Social_Media_Icons_Container">
