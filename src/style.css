@@ -11,7 +11,7 @@ html {
     rgba(12, 10, 22, 0.863)
   );
 
-  --imp-text-color: #05ff2f;
+  --imp-text-color: #F03939;
 }
 
 .purple {
@@ -195,7 +195,7 @@ button:focus {
   height: 5px;
   width: 0;
   border-radius: 16px;
-  background: #c95bf5;
+  background:#F03939;
   bottom: 1px;
   left: 0;
   z-index: -1;
@@ -287,12 +287,12 @@ button:focus {
 
 .Typewriter__wrapper {
   font-size: 2.2em !important;
-  color: #be6adf !important;
+  color: #F03939 !important;
   font-weight: 600 !important;
 }
 .Typewriter__cursor {
   font-size: 2.4em !important;
-  color: #b562d6 !important;
+  color: #F03939 !important;
 }
 
 @media (max-width: 767px) {
@@ -372,7 +372,7 @@ button:focus {
   width: 100%;
   height: 100%;
   border-radius: 50%;
-  background: #68187a;
+  background: #F03939;
   transition: 0.5s;
   transform: scale(0.9);
   z-index: -1;
@@ -458,14 +458,16 @@ button:focus {
   padding-left: 25px !important;
   padding-right: 25px !important;
   height: auto !important;
+  background-color: black;
 }
 
 .project-card-view {
-  box-shadow: 0 4px 5px 3px rgba(119, 53, 136, 0.459) !important;
-  color: white !important;
-  background-color: transparent !important;
+  box-shadow: 1px 4px 5px 6px rgba(193, 4, 240, 0.459) !important;
+  background-color: #F03939 !important;
+   color: white !important;
+  /*background-color: transparent !important; */
   opacity: 0.9 !important;
-  transition: all 0.5s ease 0s !important;
+  transition: all 0.1s ease 0.5s !important;
   height: 100% !important;
 }
 .project-card-view:hover {
