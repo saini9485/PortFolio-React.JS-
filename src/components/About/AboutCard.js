@@ -13,7 +13,7 @@ function AboutCard() {
             <br />I am a  pursuing B.Tech from JP Institute Engineering College Meerut 
             <br />I am very passionate Engineer. I enjoy problem solving and building tech products. 
             <br />
-            Apart from coding, some other activities that I love to do!
+            Apart from coding, some other activities that I love to do!!
           </p>
           <ul>
             <li className="about-activity">
